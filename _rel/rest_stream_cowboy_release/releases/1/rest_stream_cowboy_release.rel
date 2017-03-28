@@ -1,0 +1,11 @@
+{release,{"rest_stream_cowboy_release","1"},
+         {erts,"8.1"},
+         [{stdlib,"3.1"},
+          {kernel,"5.1"},
+          {crypto,"3.7.1"},
+          {cowlib,"1.0.2"},
+          {ranch,"1.2.1"},
+          {cowboy,"1.0.4"},
+          {rest_stream_cowboy,"0.1.0"},
+          {sasl,"3.0.1"},
+          {runtime_tools,"1.10.1"}]}. 
